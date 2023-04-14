@@ -8,4 +8,4 @@ Requirements: The client is colour blind and requested you to bear this in mind 
 
 ![image](https://user-images.githubusercontent.com/99494839/232028409-9684689b-f519-4b64-b10b-8ecff07b4597.png)
 
-<a href="https://public.tableau.com/shared/KTXBCBRN5?:display_count=n&:origin=viz_share_link>Click here for the interactive dashboard</a>
+<a href="https://public.tableau.com/shared/KTXBCBRN5?:display_count=n&:origin=viz_share_link">Click here for the interactive dashboard</a>
