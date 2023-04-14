@@ -1,4 +1,4 @@
-# Analysison-on-Wealth-of-nation-data-Using-Tableau
+# Wealth-of-nations-with-Tableau
 
 Aim: To analyze the Data of different Nations and getting trends out of it.
 
